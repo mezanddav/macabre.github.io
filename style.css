@@ -183,6 +183,12 @@
   .bg-\[\#180f01\] {
     background-color: #180f01;
   }
+  .bg-top {
+    background-position: top;
+  }
+  .bg-no-repeat {
+    background-repeat: no-repeat;
+  }
   .text-center {
     text-align: center;
   }
